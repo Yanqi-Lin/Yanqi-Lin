@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanqi-lin&show_icons=true&locale=en&layout=compact" alt="yanqi-lin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanqi-lin&show_icons=true&locale=en" alt="yanqi-lin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanqi-lin&show_icons=false&locale=en" alt="yanqi-lin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanqi-lin&" alt="yanqi-lin" /></p>
